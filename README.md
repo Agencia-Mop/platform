@@ -20,7 +20,7 @@ Esta é uma aplicação base construída com Laravel, projetada para servir como
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/seu-usuario/laravel-bases.git
+    git clone https://github.com/Agencia-Mop/platform.git
     ```
 
 2. Instale as dependências:
