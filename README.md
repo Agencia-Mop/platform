@@ -25,7 +25,7 @@ Esta é uma aplicação base construída com Laravel, projetada para servir como
 
 2. Instale as dependências:
     ```sh
-    cd laravel-bases
+    cd platform
     composer install
     ```
 
