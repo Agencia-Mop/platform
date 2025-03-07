@@ -1,6 +1,6 @@
-# Laravel Base Application 🚀
+# TrackerHub Platform 🚀
 
-Esta é uma aplicação base construída com Laravel, projetada para servir como ponto de partida para novos projetos. Ela inclui uma configuração inicial e algumas funcionalidades básicas para acelerar o desenvolvimento.
+Esta é uma aplicação base construída com Laravel, projetada para servir como ponto de partida para o projeto Platform. Ela inclui uma configuração inicial e algumas funcionalidades básicas para acelerar o desenvolvimento.
 
 ## Funcionalidades ✨
 
